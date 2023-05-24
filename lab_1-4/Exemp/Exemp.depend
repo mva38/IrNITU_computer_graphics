@@ -1,0 +1,202 @@
+# depslib dependency file v1.0
+1684766313 source:c:\users\musin\onedrive\Рабочий стол\временная\Компьютерная графика\1-4 лаба\exemp\main.cpp
+	<gl/gl.h>
+	<windows.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<malloc.h>
+	"mEnu.h"
+	"tExtur.h"
+	"camera.h"
+	"../stb-master/stb_image.h"
+
+1680215605 c:\users\musin\onedrive\Рабочий стол\временная\Компьютерная графика\1-4 лаба\exemp\menu.h
+
+1681698867 c:\users\musin\onedrive\Рабочий стол\временная\Компьютерная графика\1-4 лаба\exemp\textur.h
+	"main.h"
+
+1684765916 c:\users\musin\onedrive\Рабочий стол\временная\Компьютерная графика\1-4 лаба\exemp\main.h
+	"tExtur.h"
+	"mEnu.h"
+	"tExtur.h"
+
+1674632146 c:\users\musin\onedrive\Рабочий стол\временная\Компьютерная графика\1-4 лаба\exemp\camera.h
+
+1674029754 c:\users\musin\onedrive\Рабочий стол\временная\Компьютерная графика\1-4 лаба\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1680531606 source:c:\users\musin\onedrive\Рабочий стол\временная\Компьютерная графика\1-4 лаба\exemp\menu.cpp
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"../stb-master/stb_easy_font.h"
+
+1674029754 c:\users\musin\onedrive\Рабочий стол\временная\Компьютерная графика\1-4 лаба\stb-master\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1684766257 source:c:\users\musin\onedrive\Рабочий стол\временная\Компьютерная графика\1-4 лаба\exemp\textur.cpp
+	<gl/gl.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<malloc.h>
+	"../stb-master/stb_image.h"
+	"main.h"
+	"mEnu.h"
+	<algorithm>
+
+1684766313 source:c:\users\vlad\documents\ИрНТИУ\Очное\Компьютерная графика\Компьютерная графика\Компьютерная графика\1-4 лаба\exemp\main.cpp
+	<gl/gl.h>
+	<windows.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<malloc.h>
+	"mEnu.h"
+	"tExtur.h"
+	"camera.h"
+	"../stb-master/stb_image.h"
+
+1680215605 c:\users\vlad\documents\ИрНТИУ\Очное\Компьютерная графика\Компьютерная графика\Компьютерная графика\1-4 лаба\exemp\menu.h
+
+1681698867 c:\users\vlad\documents\ИрНТИУ\Очное\Компьютерная графика\Компьютерная графика\Компьютерная графика\1-4 лаба\exemp\textur.h
+	"main.h"
+
+1684765916 c:\users\vlad\documents\ИрНТИУ\Очное\Компьютерная графика\Компьютерная графика\Компьютерная графика\1-4 лаба\exemp\main.h
+	"tExtur.h"
+	"mEnu.h"
+	"tExtur.h"
+
+1674632146 c:\users\vlad\documents\ИрНТИУ\Очное\Компьютерная графика\Компьютерная графика\Компьютерная графика\1-4 лаба\exemp\camera.h
+
+1674029754 c:\users\vlad\documents\ИрНТИУ\Очное\Компьютерная графика\Компьютерная графика\Компьютерная графика\1-4 лаба\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1680531606 source:c:\users\vlad\documents\ИрНТИУ\Очное\Компьютерная графика\Компьютерная графика\Компьютерная графика\1-4 лаба\exemp\menu.cpp
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"../stb-master/stb_easy_font.h"
+
+1674029754 c:\users\vlad\documents\ИрНТИУ\Очное\Компьютерная графика\Компьютерная графика\Компьютерная графика\1-4 лаба\stb-master\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1684766257 source:c:\users\vlad\documents\ИрНТИУ\Очное\Компьютерная графика\Компьютерная графика\Компьютерная графика\1-4 лаба\exemp\textur.cpp
+	<gl/gl.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<malloc.h>
+	"../stb-master/stb_image.h"
+	"main.h"
+	"mEnu.h"
+	<algorithm>
+
+1684766313 source:c:\users\vlad\documents\ИрНТИУ\Очное\Компьютерная графика\Компьютерная графика\Компьютерная графика\lab_1-4\exemp\main.cpp
+	<gl/gl.h>
+	<windows.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<malloc.h>
+	"mEnu.h"
+	"tExtur.h"
+	"camera.h"
+	"../stb-master/stb_image.h"
+
+1680215605 c:\users\vlad\documents\ИрНТИУ\Очное\Компьютерная графика\Компьютерная графика\Компьютерная графика\lab_1-4\exemp\menu.h
+
+1681698867 c:\users\vlad\documents\ИрНТИУ\Очное\Компьютерная графика\Компьютерная графика\Компьютерная графика\lab_1-4\exemp\textur.h
+	"main.h"
+
+1684765916 c:\users\vlad\documents\ИрНТИУ\Очное\Компьютерная графика\Компьютерная графика\Компьютерная графика\lab_1-4\exemp\main.h
+	"tExtur.h"
+	"mEnu.h"
+	"tExtur.h"
+
+1674632146 c:\users\vlad\documents\ИрНТИУ\Очное\Компьютерная графика\Компьютерная графика\Компьютерная графика\lab_1-4\exemp\camera.h
+
+1674029754 c:\users\vlad\documents\ИрНТИУ\Очное\Компьютерная графика\Компьютерная графика\Компьютерная графика\lab_1-4\stb-master\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1680531606 source:c:\users\vlad\documents\ИрНТИУ\Очное\Компьютерная графика\Компьютерная графика\Компьютерная графика\lab_1-4\exemp\menu.cpp
+	<gl/gl.h>
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"../stb-master/stb_easy_font.h"
+
+1674029754 c:\users\vlad\documents\ИрНТИУ\Очное\Компьютерная графика\Компьютерная графика\Компьютерная графика\lab_1-4\stb-master\stb_easy_font.h
+	<stdlib.h>
+	<math.h>
+
+1684766257 source:c:\users\vlad\documents\ИрНТИУ\Очное\Компьютерная графика\Компьютерная графика\Компьютерная графика\lab_1-4\exemp\textur.cpp
+	<gl/gl.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<string>
+	<malloc.h>
+	"../stb-master/stb_image.h"
+	"main.h"
+	"mEnu.h"
+	<algorithm>
+
